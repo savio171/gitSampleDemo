@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="83" started-at="2020-06-23T22:25:09 IST" finished-at="2020-06-23T22:25:09 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="83" started-at="2020-06-23T22:25:09 IST" finished-at="2020-06-23T22:25:09 IST">
+      <class name="savioshaji.AppiumTest">
+        <test-method status="PASS" signature="mobileauto()[pri:0, instance:savioshaji.AppiumTest@544fe44c]" name="mobileauto" duration-ms="9" started-at="2020-06-23T22:25:09 IST" finished-at="2020-06-23T22:25:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileauto -->
+        <test-method status="PASS" signature="nativeapps()[pri:0, instance:savioshaji.AppiumTest@544fe44c]" name="nativeapps" duration-ms="0" started-at="2020-06-23T22:25:09 IST" finished-at="2020-06-23T22:25:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeapps -->
+      </class> <!-- savioshaji.AppiumTest -->
+      <class name="savioshaji.SeleniumTest">
+        <test-method status="PASS" signature="browserAuto()[pri:0, instance:savioshaji.SeleniumTest@31610302]" name="browserAuto" duration-ms="1" started-at="2020-06-23T22:25:09 IST" finished-at="2020-06-23T22:25:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAuto -->
+        <test-method status="PASS" signature="seleniumTest()[pri:0, instance:savioshaji.SeleniumTest@31610302]" name="seleniumTest" duration-ms="1" started-at="2020-06-23T22:25:09 IST" finished-at="2020-06-23T22:25:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumTest -->
+      </class> <!-- savioshaji.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
